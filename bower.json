@@ -1,0 +1,17 @@
+{
+  "name": "samplebower",
+  "authors": [
+    "David Silva <contacto@dvidsilva.com>"
+  ],
+  "description": "sample component to test something",
+  "main": "script.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
